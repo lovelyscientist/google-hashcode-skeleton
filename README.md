@@ -1,1 +1,1 @@
-# Tiny skeleton app to start working with different datasets
+Tiny skeleton app to start working with different datasets
